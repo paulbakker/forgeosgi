@@ -1,0 +1,6 @@
+-buildpath: org.jboss.forge.plugin.api;version=latest,\
+	org.apache.felix.dependencymanager,\
+	osgi.core,\
+	osgi.cmpn
+Private-Package: org.jboss.forge.exampleplugin
+Bundle-Activator: org.jboss.forge.exampleplugin.Activator

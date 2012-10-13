@@ -1,0 +1,13 @@
+org.jboss.forge.shell/generated
+org.jboss.forge.plugin.api/generated
+org.jboss.forge.annotatedplugin/bin
+org.jboss.forge.annotatedplugin/.settings
+org.jboss.forge.annotatedplugin/generated
+org.jboss.forge.exampleplugin/bin
+org.jboss.forge.facets.project/generated
+org.jboss.forge.shell/bin
+org.jboss.forge.exampleplugin/.settings
+org.jboss.forge.exampleplugin/generated
+org.jboss.forge.facets.project/.settings
+org.jboss.forge.plugin.api/.settings
+org.jboss.forge.shell/.settings
